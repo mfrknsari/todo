@@ -11,10 +11,10 @@
                     <thead>
                     <tr>
                         <th scope="col">#</th>
-                        <th scope="col">Title</th>
-                        <th scope="col">Desc</th>
-                        <th scope="col">Dead Time</th>
-                        <th scope="col">Cogs</th>
+                        <th scope="col">Başlık</th>
+                        <th scope="col">Açıklama</th>
+                        <th scope="col">Bitiş Tarihi</th>
+                        <th scope="col">İşlemler</th>
                     </tr>
                     </thead>
                     <tbody>
